@@ -19,7 +19,7 @@
 
 ## Live Demo 
 
-[Link to website ] (https://kushal1402.github.io/Rock-Paper-Scissors/) :point_left
+[Link to website](https://kushal1402.github.io/Rock-Paper-Scissors/) :point_left:
 
 ## Authors
 
