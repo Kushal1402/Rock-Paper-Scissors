@@ -21,6 +21,9 @@
 
 [Link to website](https://kushal1402.github.io/Rock-Paper-Scissors/) :point_left:
 
+## Visitors 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kushal1402.Rock-Paper-Scissors&left_color=red&right_color=green&left_text=HelloVisitors)
+
 ## Authors
 
 👤 Kushal Doshi
